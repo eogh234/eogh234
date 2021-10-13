@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eogh234" alt="eogh234" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Project**
+- 🔭 I’m currently working on **Portfolio Project, Java Study**
 
-- 🌱 I’m currently learning **Java, Spring, Javascript**
+- 🌱 I’m currently learning **Java, Spring, Javascript, Linux**
 
 - 📝 I regularly write articles on [https://letsbegin.tistory.com/](https://letsbegin.tistory.com/)
 
